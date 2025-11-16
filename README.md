@@ -1,4 +1,3 @@
-<img width="1861" height="851" alt="502830217-2b13f96f-cb36-405e-81d5-6b2f49313a50" src="https://github.com/user-attachments/assets/fa497efa-9db7-4769-9312-4c742ed0d8f8" /># 2c.SIMULATING ARP /RARP PROTOCOLS
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
